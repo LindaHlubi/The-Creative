@@ -54,7 +54,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("https://github.com/LindaHlubi/The-Creative/blob/main/digital-marketing-meeting.jpg");
+    background-image: url("./main/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
